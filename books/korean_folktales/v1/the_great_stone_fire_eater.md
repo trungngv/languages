@@ -1,0 +1,116 @@
+# THE GREAT STONE FIRE EATER
+
+위대한 돌 불 먹는 자
+
+The Great Stone Fire Eater
+
+오래 전, 한국의 수도 서울 남서쪽 산속에 강력한 불의 정령이 살았습니다. 그는 항상 배가 고프고 불타는 것이라면 무엇이든 먹었습니다. 이는 나무, 숲, 건조한 풀, 나무 등을 포함했습니다. 이런 것들을 찾지 못하면 돌과 바위를 먹어 불길을 즐기며 단단한 것들은 용암으로 뱉어냈습니다.
+
+Long ago, there lived a powerful fire spirit in the mountains southwest of Seoul, the capital of Korea. He was always hungry and ate anything that burned. This included trees, forests, dry grass, and wood. If he couldn't find these things, he ate rocks and stones, enjoying the flames and spitting out the hard things as lava.
+
+불의 정령은 대부분의 시간을 수도 근처의 큰 화산에서 보냈습니다. 도시의 사람들은 낮에는 화산에서 나오는 연기, 밤에는 붉은 불을 보며 불의 정령이 그의 궁전을 밝히고 있다고 믿었습니다. 흐린 밤에는 화산 내부가 가마처럼 빛나며 구름에 비추어 괴물의 배를 드러냈습니다.
+
+The fire spirit spent most of his time in a large volcano near the capital. The people of the city believed that the fire spirit was illuminating his palace with the smoke from the volcano during the day and the red fire at night. On cloudy nights, the inside of the volcano shone like a kiln, revealing the belly of the monster in the clouds.
+
+하지만 불의 정령은 집, 마구간, 울타리, 재산 등 인간이 만든 것들을 가장 좋아했습니다. 그의 가장 좋아하는 것은 왕궁이었습니다.
+
+However, the fire spirit loved things made by humans the most, including houses, stables, fences, and properties. His favorite was the royal palace.
+
+어느 날, 그는 서울에 있는 왕의 반짝이는 새 궁전을 발견했습니다. 그는 기뻐하며 산에서 나와 그것을 먹기로 결정했습니다. 하지만 그는 서두르지 않았고, 그의 친구인 남풍이 함께 할 준비가 될 때까지 기다리기로 했습니다.
+
+One day, he discovered the king's sparkling new palace in Seoul. He was happy and decided to come down from the mountain to eat it. But he did not rush and decided to wait until his friend, the south wind, was ready to join him.
+
+어두워지자 불의 정령은 화산을 떠나 서울로 향했습니다. 남풍이 그를 동행하며, 사람들이 밖으로 나가지 않을 정도의 강한 바람을 일으켰습니다. 궁전의 모든 경비원들이 잠들자, 불의 정령은 준비가 됐습니다. 그는 작은 집들의 지붕을 만지기 시작하면서 남풍에게 바람을 불게 했습니다. 이것은 그의 궁전에 대한 욕구를 자극하고, 그들은 함께 모든 것을 먹어 치울 것이었습니다.
+
+As it got dark, the fire spirit left the volcano and headed for Seoul. The south wind accompanied him, causing a strong wind that kept people from going outside. When all the guards in the palace fell asleep, the fire spirit was ready. He began touching the roofs of small houses, making the south wind blow. This stimulated his desire for the palace, and they were going to eat everything together.
+
+서울의 사람들이 큰 소리와 튀는 소리를 듣자, 그들은 창문을 열어 조사하였습니다. 그들은 하늘에 닿을 것 같은 거대한 불길을 목격했습니다. 무너지는 지붕의 소리와 연기와 불길의 모습은 끔찍한 이야기를 전했습니다. 아침이 되자, 건물이 있던 곳에는 이제 재만 남아 있었습니다.
+
+When the people of Seoul heard the loud and popping noises, they opened their windows to investigate. They witnessed a huge flame that seemed to reach the sky. The sounds of collapsing roofs and the sight of smoke and flames told a terrible story. By morning, only ashes remained where the buildings had been.
+
+왕과 그의 백성들은 도망치며 목숨을 구한 후, 불의 괴물이 다시 공격하는 것을 어떻게 막을지 계획하기 시작했습니다. 그들은 중국에서 용을 가져와 한국에 데려오기로 결정했습니다. 그들은 용이 만약 늪에서 잘 길러지고 잘 먹여진다면, 불의 정령이 서울에 너무 가까이 오는 것을 막을 것이라고 믿었습니다. 그러나 그들의 노력에도 불구하고 계획은 실패했습니다. 용은 너무 자주 비를 내리게 했고, 그런 다음 성질을 내며 자신의 의무를 게을리 했습니다. 어느 날 밤, 용은 경비 근무 중에 잠이 들어 불의 정령이 도망치고 다시 왕궁을 파괴하게 했습니다.
+
+After the king and his people fled and saved their lives, they started planning how to prevent the fire monster from attacking again. They decided to bring a dragon from China to Korea. They believed that if the dragon was well-raised and well-fed in the swamp, it would prevent the fire spirit from coming too close to Seoul. However, despite their efforts, the plan failed. The dragon made it rain too often, then got angry and neglected its duty. One night, the dragon fell asleep on guard duty, allowing the fire spirit to escape and destroy the royal palace again.
+
+왕과 그의 보좌관들은 다시 만나 새로운 계획을 세우기로 했습니다. 이번에는 그들이 불의 정령의 길에 큰 연못을 파기로 결정했습니다. 계획은 불의 정령이 연못에 빠져 불이 꺼질 것이라는 것이었습니다. 그러나 불의 정령이 궁전에 다가갈 때, 그는 연못에 빠져 거의 불이 꺼질 뻔 했고, 결과적으로 궁전의 절반만이 불탔습니다.
+
+The king and his aides met again to make a new plan. This time, they decided to dig a large pond in the path of the fire spirit. The plan was for the fire spirit to fall into the pond and the fire to go out. However, as the fire spirit approached the palace, he nearly fell into the pond and almost extinguished the fire, resulting in only half of the palace being burned.
+
+다시 한번, 현자들이 소집되었고, 그들은 불길을 먹고 불의 정령을 놀래켜 도망치게 할 수 있는 백색 화강암 덩어리에서 짐승을 빼내기로 결정했습니다. 그 조각, 대리석 불 먹는 자는 왕궁과 보물을 지키기 위해 궁전 게이트 앞에 놓였습니다.
+
+Once again, the wise men were summoned, and they decided to carve a beast out of a chunk of white granite that could eat the flames and scare the fire spirit away. That statue, the Marble Fire Eater, was placed in front of the palace gate to protect the royal palace and its treasures.
+
+불의 정령은 새로운 것에 대한 호기심으로 다시 도시를 방문하기로 결정했습니다. 그러나 대리석 불 먹는 자를 보자, 불의 정령은 너무 무서워서 그의 화산으로 돌아가 다시는 돌아오지 않았습니다. 대리석 불 먹는 자는 오늘날에도 궁전을 계속 지키며 그 안전을 확보하고 있습니다.
+
+The fire spirit decided to visit the city again out of curiosity about the new thing. However, upon seeing the Marble Fire Eater, the fire spirit was so scared that he returned to his volcano and never came back. The Marble Fire Eater continues to guard the palace and ensure its safety to this day.
+
+## Vocabulary
+
+1. 정령: spirit, 자연 현상이나 사물에 깃든 영혼이나 정신
+
+2. 용암: lava, 화산에서 분출하는 뜨거운 암석 물질
+
+3. 화산: volcano, 지구의 내부에서 뜨거운 용암, 가스, 재 등이 분출하는 곳
+
+4. 반짝이다: to sparkle, 빛이 번쩍이거나 반짝거림
+
+5. 남풍: south wind, 남쪽에서 부는 바람
+
+6. 경비원: guard, 특정 장소나 사람을 보호하는 사람
+
+7. 욕구: desire, 어떤 것을 갖고 싶어하거나 이루고 싶어하는 강한 마음
+
+8. 목격하다: to witness, 직접 보거나 경험함
+
+9. 끔찍하다: terrible, 매우 무섭거나 끔찍함
+
+10. 도망치다: to escape, 위험하거나 두려운 상황에서 벗어나기 위해 빠르게 떠나다
+
+11. 공격하다: to attack, 상대방을 해치려고 쳐들어가다
+
+12. 성질: temper, 화를 잘 내는 성격
+
+13. 게으르다: to be lazy, 일하거나 움직이는 것을 좋아하지 않음
+
+14. 연못: pond, 물이 모여 작은 호수
+
+15. 현자: sage, 지혜로운 사람
+
+16. 백색 화강암: white granite, 백색의 단단한 암석
+
+17. 짐승: beast, 야생 동물
+
+18. 호기심: curiosity, 새로운 것에 대한 강한 흥미나 관심
+
+19. 무서워하다: to be scared, 두려움을 느끼다
+
+20. 보좌관: aide, 주요한 결정을 내리는 사람을 돕는 사람
+
+21. 계획: plan, 미래의 행동이나 일을 미리 생각하고 준비하는 것
+
+22. 소집하다: to summon, 사람들을 모으다
+
+23. 조각: sculpture, 돌, 목재 등을 깎아 만든 예술 작품
+
+24. 게이트: gate, 진입을 허용하거나 막는 문
+
+25. 확보하다: to secure, 안전하게 보호하거나 지키다
+
+## Questions
+
+1. 불의 정령이 가장 좋아하는 것은 무엇이었나요?
+
+불의 정령이 가장 좋아하는 것은 인간이 만든 것들, 특히 왕궁이었습니다.
+
+2. 왕과 그의 백성들이 불의 정령을 막기 위해 처음으로 시도한 방법은 무엇이었나요?
+
+왕과 그의 백성들은 중국에서 용을 가져와 한국에 데려오기로 결정했습니다.
+
+3. 왕과 그의 보좌관들이 불의 정령을 막기 위해 두 번째로 시도한 방법은 무엇이었나요?
+
+왕과 그의 보좌관들이 불의 정령을 막기 위해 두 번째로 시도한 방법은 불의 정령의 길에 큰 연못을 파는 것이었습니다.
+
+4. 대리석 불 먹는 자는 어떤 역할을 했나요?
+
+대리석 불 먹는 자는 왕궁과 보물을 지키는 역할을 했습니다.
+

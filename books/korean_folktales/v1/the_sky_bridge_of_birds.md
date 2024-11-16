@@ -1,0 +1,116 @@
+# THE SKY BRIDGE OF BIRDS
+
+새들의 하늘 다리
+
+The Birds' Sky Bridge
+
+한국에서 가장 흔한 새는 까치입니다. 수백만 마리의 까치가 매일 하늘을 가득 채우지만, 7월 7일만은 다릅니다. 그날에는 까치들이 특별한 역할을 수행하기 때문에 거리와 집에서는 까치를 볼 수 없습니다. 그날, 모든 까치는 하늘에서 바쁘게 일하며, 별들의 강, 즉 은하수를 가로질러 다리를 만듭니다. 그들은 날개를 케이블로 사용하고 머리를 다리 바닥으로 사용하여 은하수 양쪽의 연인들을 위한 길을 만듭니다.
+
+In Korea, the most common bird is the magpie. Millions of magpies fill the sky every day, but July 7th is different. On that day, you cannot see magpies in the streets or at home because they perform a special role. That day, all magpies are busy in the sky, building a bridge across the river of stars, the Milky Way. They use their wings as cables and their heads as the bridge floor to create a path for lovers on both sides of the Milky Way.
+
+어린이들은 보통 까치에게 매우 친절하지만, 8월 7일에 까치가 집 주변이나 거리에서 발견되면 그 까치는 큰 문제에 처하게 됩니다. 어린이들은 별빛나는 강을 가로질러 다리를 짓는 일을 하지 않은 까치에게 막대기나 돌을 던집니다. 하지만 저녁이 되면 까치들은 다리를 다 지은 후 평소의 장소로 돌아갑니다.
+
+Children are usually very kind to magpies, but if a magpie is found near the house or in the street on August 7th, that magpie runs into big trouble. Children throw sticks or stones at magpies who did not build a bridge across the starlit river. However, when evening comes, the magpies return to their usual places after they have finished building the bridge.
+
+다리가 건설되고 사용되었는지 확인하려면 까치의 벌거벗은 머리만 주목하면 됩니다. 그들의 깃털은 별의 나라 왕자를 따라 다리를 건너 신부를 만나러 가는 사람들의 무리에 의해 닳아 떨어졌습니다.
+
+To check if the bridge has been built and used, just pay attention to the bare head of the magpie. Their feathers were worn off by the crowd of people who crossed the bridge following the prince of the star kingdom to meet the bride.
+
+이날 아침에 비가 오면 비방울은 연인들이 처음 만났을 때 흘린 기쁨의 눈물로 간주됩니다. 오후에 소나기가 내리면 그것은 작별 인사에서 슬픔의 눈물로 간주됩니다. 천둥이 들리면 그것은 왕자와 공주의 짐을 실은 마차에서 나온 것으로 생각됩니다.
+
+If it rains in the morning on this day, the raindrops are considered tears of joy that the lovers shed when they first met. If there is a shower in the afternoon, it is considered tears of sadness from the farewell. If thunder is heard, it is thought to come from the carriage carrying the prince and princess's luggage.
+
+한국 엄마들은 자녀들에게 새들의 다리 이야기를 들려줍니다. 오래 전, 별의 왕국에서 왕이 아름다운 딸을 가졌습니다. 그녀는 아름다울 뿐만 아니라 숙련된 직조사였습니다. 그녀는 재능이 있을 뿐만 아니라 친절하고 성실했습니다. 그녀는 부모님에게 사랑받았고 아버지에게 큰 영향을 미쳤습니다.
+
+Korean mothers tell their children the story of the birds' bridge. A long time ago, in the kingdom of stars, the king had a beautiful daughter. She was not only beautiful but also a skilled weaver. She was not only talented but also kind and diligent. She was loved by her parents and had a great influence on her father.
+
+시간이 지나자 별의 나라에서 잘생긴 왕자가 공주에게 사랑에 빠졌습니다. 그녀의 부모님의 동의를 얻어 그들은 결혼했습니다. 그녀가 결혼한 후에는 그녀가 더욱 성실하고 사랑스러워졌습니다. 그녀는 항상 옷, 음식을 돌보는 일과 하인들에게 좋은 본보기를 제공하는 일에 바빴습니다. 그녀는 남편의 삶을 즐겁게 하는 데 전념했습니다.
+
+As time passed, a handsome prince from the kingdom of stars fell in love with the princess. With the approval of her parents, they got married. After her marriage, she became even more diligent and lovable. She was always busy taking care of clothes, food, and setting a good example for the servants. She was devoted to making her husband's life enjoyable.
+
+그러나 왕자는 아내의 노력을 인정하지 않았습니다. 대신에 그는 그의 재산을 낭비하고 게으르게 되었습니다. 그의 재산이 줄어들면서 그는 왕자로서의 지위를 잃을 위험에 처했습니다. 별의 왕은 사위의 몰락을 보고 그를 상속에서 배제하겠다고 위협했습니다. 그러나 그의 딸이 남편을 위해 애원하자 왕은 그의 빚을 갚아주고 다시 한번 기회를 주었습니다. 왕자가 그의 낭비하는 방식을 계속하자 왕은 그들을 분리하기로 결정했습니다. 그는 왕자와 공주를 천국의 강 양쪽으로 추방했습니다.
+
+However, the prince did not recognize his wife's efforts. Instead, he wasted his wealth and became lazy. As his wealth diminished, he was in danger of losing his status as a prince. The king of the stars, seeing his son-in-law's downfall, threatened to exclude him from the inheritance. But when his daughter pleaded for her husband, the king paid off his debt and gave him another chance. When the prince continued his wasteful ways, the king decided to separate them. He banished the prince and the princess to opposite sides of the heavenly river.
+
+왕이 화가 났지만 그는 그들이 일년에 한 번 7월 7일 밤에 만나는 것을 허락했습니다. 6개월 동안의 여행 후 그들은 별빛나는 강의 가장자리에 도착했지만 그들은 건널 수 없었습니다. 그들이 건널 수 없다는 것을 깨닫고 그들은 그렇게 많이 울었더니 그들의 눈물이 아래의 땅을 덮었습니다.
+
+The king was angry, but he allowed them to meet once a year on the night of July 7th. After a six-month journey, they arrived at the edge of the starlit river, but they could not cross it. Realizing that they couldn't cross, they cried so much that their tears covered the land below.
+
+동물들은 그들을 돕기로 결정했습니다. 강하고 높이 날 수 있는 까치들이 이 일을 맡기로 선택되었습니다. 까치들은 돕기로 동의하고 별빛나는 시내를 가로질러 다리를 지었습니다. 그들은 머리를 바닥으로 사용하고 날개를 다리를 지탱하는 데 사용했습니다. 왕자는 다리를 건너 신부를 만났습니다.
+
+The animals decided to help them. The strong and high-flying magpies were chosen to take on this task. The magpies agreed to help and built a bridge across the starlit river. They used their heads as the floor and their wings to support the bridge. The prince crossed the bridge and met the bride.
+
+매년 7월 7일에 까치들은 이 다리를 짓습니다. 까치 왕국에서는 어떤 새도 이 일을 피할 수 없는 법입니다. 게으르거나 복종하지 않는 까치는 한국 아이들에게 쫓겨납니다. 이는 모든 소녀가 별 공주처럼 성실하게 되기를 바라고 모든 소년이 매년 별의 강 빛나는 해변에서 신부를 만나는 왕자처럼 충실하게 되기를 바라기 때문입니다.
+
+Every year on July 7th, the magpies build this bridge. In the kingdom of magpies, no bird can avoid this task. Lazy or disobedient magpies are chased away by Korean children. This is because they hope that every girl will become as diligent as the star princess and every boy will be as faithful as the prince who meets his bride on the shining beach of the star river every year.
+
+## Vocabulary
+
+1. 까치: magpie, 한국에서 가장 흔한 새의 한 종류입니다.
+
+2. 은하수: milky way, 별들이 모여 만들어진 강을 의미합니다.
+
+3. 연인: lovers, 사랑하는 사람들을 의미합니다.
+
+4. 벌거벗은: bare, 옷이나 깃털 등이 없는 상태를 의미합니다.
+
+5. 비방울: raindrop, 비가 내릴 때 떨어지는 물방울을 의미합니다.
+
+6. 소나기: shower, 짧은 시간 동안 강하게 내리는 비를 의미합니다.
+
+7. 천둥: thunder, 번개가 칠 때 나는 소리를 의미합니다.
+
+8. 직조사: weaver, 옷이나 천을 짜는 사람을 의미합니다.
+
+9. 재산: wealth, 돈이나 재물을 의미합니다.
+
+10. 상속: inheritance, 부모나 가족이 죽었을 때 그들의 재산을 받는 것을 의미합니다.
+
+11. 추방: exile, 특정 장소에서 영구히 떠나게 하는 것을 의미합니다.
+
+12. 눈물: tears, 슬픔이나 기쁨 등 감정이 격해질 때 눈에서 나오는 물을 의미합니다.
+
+13. 동물: animal, 사람을 제외한 모든 생명체를 의미합니다.
+
+14. 낭비: waste, 필요 이상으로 사용하거나 소비하는 것을 의미합니다.
+
+15. 복종: obedience, 명령이나 규칙을 따르는 것을 의미합니다.
+
+16. 게으르다: lazy, 일을 하기 싫어하는 성격을 의미합니다.
+
+17. 충실하다: faithful, 어떤 사람이나 일에 대해 변치 않고 지키는 것을 의미합니다.
+
+18. 성실하다: diligent, 일을 꼼꼼하게 하고 끈기 있게 하는 것을 의미합니다.
+
+19. 아름답다: beautiful, 눈에 보기 좋은 것을 의미합니다.
+
+20. 친절하다: kind, 다른 사람에게 좋은 행동을 하는 것을 의미합니다.
+
+21. 재능: talent, 특정한 일을 잘하는 능력을 의미합니다.
+
+22. 사랑받다: to be loved, 다른 사람들로부터 좋은 감정을 받는 것을 의미합니다.
+
+23. 영향: influence, 다른 사람이나 사물에게 변화를 주는 힘을 의미합니다.
+
+24. 동의: agreement, 다른 사람의 의견이나 제안에 동의하는 것을 의미합니다.
+
+25. 애원: plead, 다른 사람에게 간청하는 것을 의미합니다.
+
+## Questions
+
+1. 7월 7일에 까치들이 하는 일은 무엇인가요?
+
+7월 7일에 까치들은 은하수를 가로질러 다리를 만듭니다.
+
+2. 왕자와 공주가 왜 분리되었나요?
+
+왕자가 재산을 낭비하고 게으르게 살아서 별의 왕이 그들을 분리시켰습니다.
+
+3. 왕자와 공주가 언제 만날 수 있나요?
+
+왕자와 공주는 일년에 한 번, 7월 7일 밤에 만날 수 있습니다.
+
+4. 까치들이 왕자와 공주를 어떻게 도왔나요?
+
+까치들은 별빛나는 시내를 가로질러 다리를 지어 왕자와 공주를 도왔습니다.
+
