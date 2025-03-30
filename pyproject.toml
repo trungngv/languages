@@ -1,0 +1,47 @@
+[tool.poetry]
+name = "youtube-chat"
+version = "0.1.0"
+description = "An AI assistant for learning languages through YouTube videos"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = ">=3.9,<3.14"
+openai = "^1.12.0"
+gradio = "^4.19.2"
+python-dotenv = "^1.0.1"
+youtube-transcript-api = "^1.0.3"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.0.0"
+black = "^24.2.0"
+isort = "^5.13.2"
+flake8 = "^7.0.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api" 
+
+[tool.mypy]
+python_version = "3.10"
+install_types = true
+warn_unused_configs = true
+warn_return_any = true
+ignore_missing_imports = true
+disallow_untyped_defs = true
+ignore_errors = false
+files = [
+    "youtube_chat"
+]
+
+[tool.black]
+line-length = 88
+exclude = '''
+/(
+    \.git
+  | \.mypy_cache
+  | \.tox
+  | \.venv
+  | build
+  | dist
+)/
+'''

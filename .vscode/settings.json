@@ -1,0 +1,30 @@
+{
+    // Controls whether the lines in output should wrap.
+    "notebook.output.wordWrap": true,
+    // Will allow any unconfigured ports to port forward to localhost in devcontainer
+    "remote.autoForwardPortsFallback": 0,
+    "python.analysis.autoFormatStrings": true,
+    "python.analysis.extraPaths": [
+        ".",
+        "./youtube_chat"
+    ],
+    "python.envFile": "${workspaceFolder}/.env",
+    "[python]": {
+        "editor.codeActionsOnSave": {
+            "source.fixAll": "explicit",
+            "source.organizeImports": "explicit"
+        },
+        "editor.defaultFormatter": "ms-python.black-formatter",
+        "editor.formatOnSave": true,
+        "editor.wordWrap": "wordWrapColumn",
+        "editor.wordWrapColumn": 120,
+    },
+    "terminal.integrated.defaultProfile.linux": "bash",
+    "python.terminal.activateEnvironment": true,
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "python.testing.pytestArgs": [
+        "tests/"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
