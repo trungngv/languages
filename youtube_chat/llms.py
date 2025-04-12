@@ -7,7 +7,7 @@ load_dotenv()
 
 class OpenAIClient:
     """
-    A thin wrapper around the OpenAI API client that handles retries.
+    A thin wrapper around the OpenAI API client that uses the structure response format.
     """
 
     def __init__(

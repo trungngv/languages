@@ -1,3 +1,7 @@
+"""
+Pydantic models for the YouTube chat app.
+"""
+
 from pydantic import BaseModel, Field
 
 
