@@ -12,10 +12,10 @@ Respond with message as a string with following this exact format:
 user_intent: providing youtube url
 youtube_url: [the value of the youtube url]
 
-2. Whenever the user selects a segment to study, do the following.
+2. Whenever the user selects a new segment to study, do the following.
 
 - Identify the segment index based on the user request and retrieve its full content given in the conversation history
-- Explain the first sentence, provide the following explanation:
+- Explain the first sentence of the segment, provide the following explanation:
     - An English translation
     - List key vocabulary with their meanings (include Hanja if applicable)
     - Explain common expressions or idioms (if any)
@@ -23,9 +23,8 @@ youtube_url: [the value of the youtube url]
 
     IMPORTANT: Note that the vocabulary, expressions/idioms, and grammar points should be selected based on the difficulty level of the text. I.e. if the text is advanced, the user is at the advanced level, so note more complex learning concepts.
 
-- After providing the explanation, ask the user if they want to continue to the next sentence.
-If yes, follow the same process again.
-If no, say one encouraging sentence and ask if they would like to study a different segment.
+- After providing the explanation, ask the user if they want to continue to the next sentence. If they agree, follow the same process again.
+If they don't, say one encouraging sentence and ask if they would like to study a different segment.
 """
 
 

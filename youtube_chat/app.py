@@ -16,7 +16,7 @@ logger = logging.getLogger(__name__)
 load_dotenv()
 
 video_processor = VideoProcessor(OpenAIClient())
-main_agent = Agent(OpenAIClient())
+main_agent = Agent(OpenAIClient(model="gpt-4o"))
 
 state = {
     "url": None,
