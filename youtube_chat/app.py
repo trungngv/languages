@@ -1,7 +1,7 @@
 import logging
 
 import gradio as gr
-from agents.agent import extract_user_intent
+from agents.single_agent import extract_user_intent
 from dotenv import load_dotenv
 
 from youtube_chat.agents import LanguageTeachingAgent, VideoProcessor
@@ -26,7 +26,7 @@ state = {
 
 
 def inference(message, history):
-    response = main_agent.call_agent(message=message, history=history, state=state)
+    response = main_agent.call(message=message, history=history, state=state)
     logger.info(f"Response: {response[0:100]} ...")
 
     user_intent = extract_user_intent(response)

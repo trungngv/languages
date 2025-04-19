@@ -38,7 +38,7 @@ class LanguageTeachingAgent:
     def __init__(self, openai_client: OpenAIClient):
         self.openai_client = openai_client
 
-    def call_agent(
+    def call(
         self, message: str, history: list[dict[str, str]], state: dict[str, any]
     ) -> str:
         messages = [
