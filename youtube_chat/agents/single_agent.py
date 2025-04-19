@@ -34,7 +34,7 @@ def extract_user_intent(message: str) -> str:
     return match.group(1) if match else None
 
 
-class Agent:
+class LanguageTeachingAgent:
     def __init__(self, openai_client: OpenAIClient):
         self.openai_client = openai_client
 

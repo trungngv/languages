@@ -4,7 +4,7 @@ import gradio as gr
 from agents.agent import extract_user_intent
 from dotenv import load_dotenv
 
-from youtube_chat.agents import Agent, VideoProcessor
+from youtube_chat.agents import LanguageTeachingAgent, VideoProcessor
 from youtube_chat.llms import OpenAIClient
 from youtube_chat.youtube import extract_youtube_url
 
@@ -16,7 +16,7 @@ logger = logging.getLogger(__name__)
 load_dotenv()
 
 video_processor = VideoProcessor(OpenAIClient())
-main_agent = Agent(OpenAIClient(model="gpt-4o"))
+main_agent = LanguageTeachingAgent(OpenAIClient(model="gpt-4o"))
 
 state = {
     "url": None,
