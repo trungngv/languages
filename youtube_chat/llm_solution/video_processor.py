@@ -4,15 +4,16 @@ Agent for processing transcripts. This can be split into more specialised agents
 
 import logging
 
-from youtube_chat.database import VideoDatabase
-from youtube_chat.llms import OpenAIClient
+from llm_solution.llms import OpenAIClient
+from services.database import VideoDatabase
+from services.youtube import YouTubeTranscriptDownloader
+
 from youtube_chat.pydantic_models import (
     Segment,
     SegmentedTranscript,
     SegmentExplanation,
     Transcript,
 )
-from youtube_chat.youtube import YouTubeTranscriptDownloader
 
 logging.basicConfig(
     level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"

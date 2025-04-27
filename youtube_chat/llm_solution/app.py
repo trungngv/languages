@@ -1,12 +1,15 @@
 import logging
 
 import gradio as gr
-from agents.single_agent import extract_user_intent
 from dotenv import load_dotenv
 
-from youtube_chat.agents import LanguageTeachingAgent, VideoProcessor
-from youtube_chat.llms import OpenAIClient
-from youtube_chat.youtube import extract_youtube_url
+from youtube_chat.llm_solution.llms import OpenAIClient
+from youtube_chat.llm_solution.single_agent import (
+    LanguageTeachingAgent,
+    extract_user_intent,
+)
+from youtube_chat.llm_solution.video_processor import VideoProcessor
+from youtube_chat.services.youtube import extract_youtube_url
 
 logging.basicConfig(
     level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"

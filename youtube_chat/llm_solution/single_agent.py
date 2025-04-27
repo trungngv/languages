@@ -1,6 +1,6 @@
 import re
 
-from youtube_chat.llms import OpenAIClient
+from llm_solution.llms import OpenAIClient
 
 system_prompt = """
 You are a helpful assistant for learning Korean through YouTube videos.
