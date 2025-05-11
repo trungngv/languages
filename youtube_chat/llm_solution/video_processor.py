@@ -27,12 +27,8 @@ class VideoProcessor:
         self.transcript_downloader = YouTubeTranscriptDownloader()
         self.db = VideoDatabase(db_path)
 
-    def process(self, video_url: str) -> SegmentedTranscript:
+    def process(self, video_id: str) -> SegmentedTranscript:
         """Process a YouTube video: fetch transcript, segment it, and store results."""
-        video_id = self.transcript_downloader.extract_video_id(video_url)
-        if not video_id:
-            raise ValueError("Invalid YouTube URL")
-
         # Check if video exists in database
         cached_content = self.db.get_video(video_id)
         if cached_content and cached_content["segmented_transcript"]:
@@ -41,13 +37,11 @@ class VideoProcessor:
 
         # If not in database, process the video
         logger.info(f"Processing new video {video_id}")
-        transcript = self.transcript_downloader.get_transcript(video_url)
+        transcript = self.transcript_downloader.get_transcript(video_id)
         segmented_transcript = self.process_transcript(transcript)
 
-        # Store in database
         self.db.store_video(
             video_id=video_id,
-            url=video_url,
             transcript=transcript,
             segmented_transcript=segmented_transcript,
         )

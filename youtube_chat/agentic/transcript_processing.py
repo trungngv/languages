@@ -95,7 +95,6 @@ class TranscriptProcessor:
         # Store in database
         self.db.store_video(
             video_id=video_id,
-            url=video_id,
             transcript=transcript,
             segmented_transcript=segmented_transcript,
         )

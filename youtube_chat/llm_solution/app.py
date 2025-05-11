@@ -9,7 +9,7 @@ from youtube_chat.llm_solution.single_agent import (
     extract_user_intent,
 )
 from youtube_chat.llm_solution.video_processor import VideoProcessor
-from youtube_chat.services.youtube import extract_youtube_url
+from youtube_chat.services.youtube import YouTubeTranscriptDownloader
 
 logging.basicConfig(
     level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"
@@ -22,7 +22,7 @@ video_processor = VideoProcessor(OpenAIClient())
 main_agent = LanguageTeachingAgent(OpenAIClient(model="gpt-4o"))
 
 state = {
-    "url": None,
+    "video_id": None,
     "segmented_transcript": None,
     "current_selected_segment": None,
 }
@@ -36,10 +36,10 @@ def inference(message, history):
     logger.info(f"User Intent: {user_intent}")
 
     if user_intent == "providing youtube url":
-        youtube_url = extract_youtube_url(response)
-        if youtube_url:
-            state["url"] = youtube_url
-            segmented_transcript = video_processor.process(youtube_url)
+        video_id = YouTubeTranscriptDownloader.extract_video_id(response)
+        if video_id:
+            state["video_id"] = video_id
+            segmented_transcript = video_processor.process(video_id)
             state["segmented_transcript"] = segmented_transcript
 
             return f"""

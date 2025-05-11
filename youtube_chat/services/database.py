@@ -16,7 +16,6 @@ class VideoDatabase:
                 """
                 CREATE TABLE IF NOT EXISTS videos (
                     video_id TEXT PRIMARY KEY,
-                    url TEXT NOT NULL,
                     transcript TEXT,
                     segmented_transcript TEXT,
                     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
@@ -28,7 +27,6 @@ class VideoDatabase:
     def store_video(
         self,
         video_id: str,
-        url: str,
         transcript: str,
         segmented_transcript: SegmentedTranscript,
     ):
@@ -37,12 +35,11 @@ class VideoDatabase:
             cursor = conn.cursor()
             cursor.execute(
                 """
-                INSERT OR REPLACE INTO videos (video_id, url, transcript, segmented_transcript)
-                VALUES (?, ?, ?, ?)
+                INSERT OR REPLACE INTO videos (video_id, transcript, segmented_transcript)
+                VALUES (?, ?, ?)
             """,
                 (
                     video_id,
-                    url,
                     transcript,
                     segmented_transcript.model_dump_json(),
                 ),
@@ -55,7 +52,7 @@ class VideoDatabase:
             cursor = conn.cursor()
             cursor.execute(
                 """
-                SELECT url, transcript, segmented_transcript
+                SELECT transcript, segmented_transcript
                 FROM videos
                 WHERE video_id = ?
             """,
@@ -64,9 +61,9 @@ class VideoDatabase:
             result = cursor.fetchone()
 
             if result:
-                url, transcript, segmented_transcript = result
+                transcript, segmented_transcript = result
                 return {
-                    "url": url,
+                    "video_id": video_id,
                     "transcript": transcript,
                     "segmented_transcript": (
                         SegmentedTranscript.model_validate_json(segmented_transcript)
