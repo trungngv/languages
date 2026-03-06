@@ -1,0 +1,12 @@
+{
+    "rules": [
+        {
+            "name": "use-builtin-types",
+            "description": "Use built-in types instead of typing imports",
+            "pattern": "from typing import (.*)(Dict|List|Tuple|Set|FrozenSet|Type|Any|Callable|Mapping|Sequence|Iterable|Iterator|Generator|Coroutine|AsyncGenerator|AsyncIterator|AsyncIterable)",
+            "replacement": "from typing import $1",
+            "severity": "warning",
+            "message": "Use built-in types (dict, list, tuple, set, frozenset, type) instead of typing imports. Only use typing imports for Optional, Union, and custom types."
+        }
+    ]
+} 

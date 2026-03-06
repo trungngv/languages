@@ -1,0 +1,24 @@
+    # history is a list of dicts with keys "role" and "content"
+    # need to pass the conversation with state / context and ask the LLM to do inference by itself!
+    # or return the user intent and call appropriate functions
+
+    # Traditional way:
+    # - Maintain state
+    # - Decide when to call which agent based on the state
+    # This might be one way to do agentic, and that's how we did it with Burley
+
+    # Agentic way:
+    # - Have a triage agent which should work well for simple logic like this
+    
+    # Use only a single agent 
+    # Update and maintain its own state
+    # Specify all logic in its prompt
+    # => context managmenet and length is a challenge
+    # => so far the LLM struggles to follow instruction regarding segment and sentence. maybe 4o can?
+
+
+    # What do I need in this application?
+    # - The segmented transcripts
+    # - Retrieval: given a query by user to select the segment, get its explaination
+    # - This will allow the agent to also cache the result
+    # => Some very good benefit of agentic approach

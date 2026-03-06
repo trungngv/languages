@@ -1,6 +1,5 @@
 # TODO:
 # - Try MCP server
-# - Use AgentOps.ai to do logging and dashboard monitoring
 
 import logging
 
